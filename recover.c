@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <stdint.h>
 
-typedef uint8_t BYTE;
+// Recuperando imagens jpeg no cartão de cartão de mémoraia.
+typedef  uint8_t  BYTE ;
 
 int main(int argc, char *argv[])
 {
